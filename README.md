@@ -11,3 +11,7 @@ Users enter a topic (e.g., "AI Agents") and get a learning roadmap, key concepts
 ## Day 2 – Agent Tools & Interoperability
 
 Explored open protocols for plug-and-play AI: MCP (Model Context Protocol) for connecting models to data sources, A2A for agent-to-agent collaboration, A2UI for generative UI, and AP2/UCP for machine-to-machine commerce. Practiced adding MCP servers to Antigravity and using the Antigravity CLI.
+
+## Day 3 – Agent Skills
+
+Explored portable **Agent Skills** using `SKILL.md` for progressive disclosure and lightweight context. Used **Agents CLI** and **ADK 2.0** to scaffold, lint, and test agents locally, and tested agents interactively with the auto-reloading playground.
